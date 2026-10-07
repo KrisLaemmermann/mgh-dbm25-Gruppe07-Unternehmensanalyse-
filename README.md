@@ -1,6 +1,6 @@
 # Finanzkennzahlen der Big-Tech-Unternehmen im Vergleich
 
-**Autoren:** [Vorname Nachname]
+**Autoren:** Kris Lämmermann, Vincent Eckart
 
 Datenprojekt im Modul *Business Analytics* (DHBW Bad Mergentheim, Digital Business Management, Dozent: Thomas Burghardt), umgesetzt mit der Methode **Vibe Coding**.
 
