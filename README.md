@@ -1,0 +1,1 @@
+# mgh-dbm25-Gruppe07-Unternehmensanalyse-
