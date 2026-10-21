@@ -82,7 +82,7 @@ Diese Punkte sind während des Vibe-Coding-Prozesses in den Daten aufgefallen. S
 **Hinweise zur Transparenz:**
 - Die Hypothesen H1 bis H5 wurden von der KI nach einer ersten Sichtung der Daten formuliert.
 - In der Arbeitsumgebung der KI war Jupyter nicht installierbar. Das Notebook wurde dort mit einem eigenen Skript ausgeführt, das die Zellen nacheinander mit Python laufen lässt und die Ausgaben speichert. Vor der Abgabe sollte das Notebook einmal lokal mit „Restart Kernel and Run All“ ausgeführt werden.
-- Die Originalquelle der CSV-Datei (z. B. Kaggle-Link) ist der KI nicht bekannt und muss im Notebook (Abschnitt 2.1) und in der README ergänzt werden.
+- Die Originalquelle der CSV-Datei (Kaggle-Link) wurde von uns angegeben und im Notebook (Abschnitt 2.1) sowie in der README eingetragen.
 - Die Verantwortung für den Inhalt liegt bei uns: Wir müssen jeden Schritt des Codes und jede Interpretation erklären können.
 
 ## 7. Weitere eigene Prompts
